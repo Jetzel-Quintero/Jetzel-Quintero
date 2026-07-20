@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋  I'm Jetzel Quintero ✨ </h1> 
 
 <div align="center">
-  <img src="blob:https://gemini.google.com/c5505cb5-0717-4880-88d6-36b55cc9fc78" alt="Jetzel Quintero Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Jetzel-Quintero/Jetzel-Quintero/refs/heads/main/banner_jetBI.png" width="100%" />
 </div>
 <p align="left">
   <a href="mailto:jetzel.quintero.it@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jetzel.quintero.it@gmail.com" /></a>
